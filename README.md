@@ -37,4 +37,5 @@
 
 ## Contact
 Created by [Miralireza Nabavi](anabavib@asu.edu) - feel free to contact me!
+The comprehensive report is provided in final_report.pdf.
 If you need the Folium analysis script, please contaact me.
